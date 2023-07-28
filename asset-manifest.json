@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reactprojectaboutpage/static/css/main.69998c54.css",
+    "main.js": "/reactprojectaboutpage/static/js/main.4299c802.js",
+    "static/js/787.c5e05a2f.chunk.js": "/reactprojectaboutpage/static/js/787.c5e05a2f.chunk.js",
+    "static/media/Aboutus.jpg": "/reactprojectaboutpage/static/media/Aboutus.dd1e94e07ca612529e77.jpg",
+    "static/media/Akpr.jpg": "/reactprojectaboutpage/static/media/Akpr.b79a0d8909897452a326.jpg",
+    "index.html": "/reactprojectaboutpage/index.html",
+    "main.69998c54.css.map": "/reactprojectaboutpage/static/css/main.69998c54.css.map",
+    "main.4299c802.js.map": "/reactprojectaboutpage/static/js/main.4299c802.js.map",
+    "787.c5e05a2f.chunk.js.map": "/reactprojectaboutpage/static/js/787.c5e05a2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69998c54.css",
+    "static/js/main.4299c802.js"
+  ]
+}
