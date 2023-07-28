@@ -1,0 +1,58 @@
+.cont
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(Aboutus.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.box
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+
+
+.txt
+{
+    font-size: 4rem;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    color: blanchedalmond;
+    
+}
+
+.btn
+{
+    text-align: center;
+    display: flex;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    text-decoration: none;
+    color: white;
+    background-color: crimson;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.btn:hover
+{
+    background-color: orange;
+    transition: .5s;
+    display: flex;
+    
+}

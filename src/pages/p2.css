@@ -1,0 +1,46 @@
+.content{
+    display: flex;
+    color: bisque;
+    
+}
+
+.x
+{
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(Akpr.jpg);
+    background-repeat: no-repeat;
+    background-position:bottom;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.content
+{
+    width: 600px;
+    align-items: center;
+   
+ 
+}
+
+.box
+{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+    
+}
+
+.x
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100vh;
+
+}
